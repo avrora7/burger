@@ -1,19 +1,12 @@
-li {
-  padding: 5px;
-  margin: 5px;
-  background: #faebd7;
+body {
+  background-color:rgb(235, 225, 235);
 }
 
-.label {
-  font-weight: bold;
+.delete-burger {
+  border-style: none;
 }
 
-.create-update-form {
-  padding: 5px;
-  margin: 5px;
-  background: aqua;
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
 }
 
-.form-group {
-  margin-bottom: 5px;
-}
