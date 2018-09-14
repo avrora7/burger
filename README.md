@@ -15,6 +15,9 @@
 *  In case the order was wrong, click ```Wrong order``` button and the burger moves back to the ```Ready to Eat Burgers``` list
 *  Otherwise once a burger is devoured, it can be deleted.
 
+#### Burger Paradise app demo
+*  [![Demo](http://img.youtube.com/vi/wc8w5UtIdxg/0.jpg)](http://www.youtube.com/watch?v=wc8w5UtIdxg "Burger Paradise demo")
+
 #### How you could help
 *  Spread the word about Burger Paradise app
 *  Create new burger names
